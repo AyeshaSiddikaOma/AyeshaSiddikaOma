@@ -91,14 +91,17 @@ Interactive web experiences
 </td>
 </tr>
 </table>
-
 <div align="center">
 
 ## 📊 MY GITHUB WORLD
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&bg_color=17121f&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&bg_color=17121f&title_color=ff69b4&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=17121f&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ff69b4&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&theme=radical&hide_border=true"/>
+
+<br><br>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=AyeshaSiddikaOma&theme=radical&hide_border=true"/>
 
 </div>
 
