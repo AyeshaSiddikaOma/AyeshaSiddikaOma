@@ -1,19 +1,19 @@
-
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:db2777,100:7e22ce&height=200&section=header&text=AYESHA%20SIDDIKA%20OMA&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Designer%20%7C%20Frontend%20Developer&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0d9488,100:0f766e&height=200&section=header&text=AYESHA%20SIDDIKA%20OMA&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Designer%20%7C%20Frontend%20Developer&descAlignY=60&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+creative+world+%F0%9F%8E%80;Designing+Dreams+with+Code+%E2%9C%A8;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Pretty+Pixels.+Clean+Code.+Big+Dreams." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=800&color=2dd4bf&center=true&vCenter=true&width=500&lines=Welcome+to+my+creative+world+%F0%9F%8E%80;Designing+Dreams+with+Code+%E2%9C%A8;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Pretty+Pixels.+Clean+Code.+Big+Dreams." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/✦_CREATIVE_MIND-ff1493?style=for-the-badge&labelColor=17121f"/>
-<img src="https://img.shields.io/badge/♡_CODE_WITH_LOVE-db2777?style=for-the-badge&labelColor=17121f"/>
-<img src="https://img.shields.io/badge/✧_DREAM_BIG-9333ea?style=for-the-badge&labelColor=17121f"/>
+<img src="https://img.shields.io/badge/✦_CREATIVE_MIND-14b8a6?style=for-the-badge&labelColor=17121f"/>
+<img src="https://img.shields.io/badge/♡_CODE_WITH_LOVE-0d9488?style=for-the-badge&labelColor=17121f"/>
+<img src="https://img.shields.io/badge/✧_DREAM_BIG-0f766e?style=for-the-badge&labelColor=17121f"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2dd4bf&height=2&section=header" width="100%"/>
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ A creative **Web Designer** who loves turning ideas into beautiful digital exper
 
 <br/>
 
-<img src="https://img.shields.io/badge/Currently-Into%20JavaScript-ff69b4?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Currently-Into%20JavaScript-2dd4bf?style=flat-square&logo=javascript&logoColor=white"/>
 
 </td>
 </tr>
@@ -53,11 +53,11 @@ A creative **Web Designer** who loves turning ideas into beautiful digital exper
 
 <br/>
 
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-db2777?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-9333ea?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-ec4899?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f472b6?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-2dd4bf?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-14b8a6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-0f766e?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-5eead4?style=flat-square&logo=javascript&logoColor=white"/>
 
 </div>
 
@@ -96,9 +96,9 @@ Interactive web experiences
 
 ## 📊 MY GITHUB WORLD
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&bg_color=17121f&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&bg_color=17121f&title_color=ff69b4&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&bg_color=17121f&title_color=2dd4bf&icon_color=14b8a6&text_color=ffffff&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&bg_color=17121f&title_color=2dd4bf&text_color=ffffff"/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=17121f&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ff69b4&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=17121f&ring=2dd4bf&fire=14b8a6&currStreakLabel=2dd4bf&sideLabels=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
 
 </div>
 
@@ -112,10 +112,11 @@ Interactive web experiences
 
 <br/>
 
-<img src="https://img.shields.io/badge/MADE_WITH-♡_AND_COFFEE-ff69b4?style=for-the-badge&labelColor=17121f"/>
+<img src="https://img.shields.io/badge/MADE_WITH-♡_AND_COFFEE-2dd4bf?style=for-the-badge&labelColor=17121f"/>
 
 ### ✨ Dream it. Design it. Develop it. ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7e22ce,50:db2777,100:ff1493&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0d9488,100:14b8a6&height=120&section=footer"/>
 
 </div>
+```
