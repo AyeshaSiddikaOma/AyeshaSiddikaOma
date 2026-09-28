@@ -59,12 +59,12 @@ A creative **Web Designer** who loves turning ideas into clean and beautiful dig
 <img src="https://img.shields.io/badge/Bootstrap-A94F70?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-C47A91?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-D08A9F?style=flat-square&logo=javascript&logoColor=white"/>
-```
+
 
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -103,13 +103,11 @@ Interactive web experiences
 
 ## 📊 MY GITHUB WORLD
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&bg_color=0f172a&title_color=d98fa3&icon_color=bb7185&text_color=ffffff&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&bg_color=0f172a&title_color=d98fa3&text_color=ffffff"/>
-
 <img width="80%" src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=0f172a&ring=d98fa3&fire=bb7185&currStreakLabel=d98fa3&sideLabels=d98fa3&currStreakNum=ffffff&sideNums=ffffff&dates=64748b"/>
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -126,4 +124,4 @@ Interactive web experiences
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9f6073,50:3b2630,100:0f172a&height=120&section=footer"/>
 
 </div>
-```
+
