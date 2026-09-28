@@ -7,9 +7,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🌷_CREATIVE_MIND-d98fa3?style=for-the-badge&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/🩷_CODE_WITH_LOVE-bb7185?style=for-the-badge&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/✨_DREAM_BIG-9f6073?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/🌷_CREATIVE_MIND-C56F88?style=for-the-badge&labelColor=0f172a&logoColor=white"/>
+<img src="https://img.shields.io/badge/🩷_CODE_WITH_LOVE-B85C78?style=for-the-badge&labelColor=0f172a&logoColor=white"/>
+<img src="https://img.shields.io/badge/✨_DREAM_BIG-A94F70?style=for-the-badge&labelColor=0f172a&logoColor=white"/>
+```
+
 
 </div>
 
