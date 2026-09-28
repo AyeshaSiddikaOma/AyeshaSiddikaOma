@@ -1,75 +1,50 @@
-# Hi 👋, I'm Ayesha Siddika Oma
+<div align="center">
 
-### 💻 Front-End Developer | 🌐 Web Designer | 🚀 Future Freelancer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayesha%20Siddika%20Oma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Web%20Designer&descAlignY=58&descSize=18" alt="header" width="100%" />
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=560&lines=Building+clean%2C+responsive+websites;HTML+%7C+CSS+%7C+JavaScript;Turning+ideas+into+working+products" alt="Typing SVG" />
 
-## 🙋‍♀️ About Me
+<br><br>
 
-✨ I'm **Ayesha Siddika Oma**, a passionate **Front-End Developer** who loves creating modern, responsive, and user-friendly websites.
+<img src="https://komarev.com/ghpvc/?username=AyeshaSiddikaOma&style=for-the-badge&color=61DAFB&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" height="30" />
 
-- 🌱 Currently improving my **JavaScript** skills
-- 🎯 Goal: Become a successful **Freelance Web Developer**
-- 💡 Love turning ideas into beautiful web experiences
-- ⚡ Always eager to learn new technologies
+</div>
 
----
+<br>
 
-## 🚀 Tech Stack
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Profile :
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+1. **Currently learning** — JavaScript (ES6+)
+2. **Goal** — Freelance Web Developer
+3. **Open to** — Freelance projects and collaborations
+4. **Contact** — `your-email@gmail.com`
+5. **Portfolio** — `your-portfolio.com`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📈 GitHub Stats
+### Stack :
 
-> Replace **YOUR_USERNAME** with your GitHub username.
+`HTML` `CSS` `JavaScript`
+`Bootstrap` `Tailwind CSS`
+`Git` `GitHub` `VS Code`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 🔥 GitHub Streak
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
----
+</div>
 
-## 🌍 Connect With Me
+<br>
 
-> Replace the links below with your own.
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-
-## 💭 Developer Quote
-
-> **"Code is not just instructions for computers, it's creativity translated into reality."** ✨
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
----
-
-## ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-### 🚀 Happy Coding!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" width="100%" />
