@@ -1,50 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayesha%20Siddika%20Oma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Web%20Designer&descAlignY=58&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1035,50:5b2a86,100:c04a8b&height=260&section=header&text=Ayesha%20Siddika%20Oma&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Front-End%20Developer%20%7C%20Web%20Designer&descAlignY=64&descSize=18" alt="header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=560&lines=Building+clean%2C+responsive+websites;HTML+%7C+CSS+%7C+JavaScript;Turning+ideas+into+working+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=C04A8B&center=true&vCenter=true&width=600&lines=%3E+const+goal+%3D+%22Freelance+Web+Developer%22%3B;%3E+while+(learning)+%7B+build()%3B+%7D;%3E+Designing+interfaces+people+enjoy+using" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=AyeshaSiddikaOma&style=for-the-badge&color=61DAFB&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" height="30" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-5b2a86?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-c04a8b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
 <br>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+## About
 
-### Profile :
+```js
+const ayesha = {
+ role: "Front-End Developer & Web Designer",
+ currentlyLearning: ["JavaScript (ES6+)", "React"],
+ focus: ["Responsive layouts", "Clean UI", "Accessible design"],
+ goal: "Become a successful freelance web developer",
+ openTo: ["Freelance projects", "Collaborations"],
+};
+```
 
-1. **Currently learning** — JavaScript (ES6+)
-2. **Goal** — Freelance Web Developer
-3. **Open to** — Freelance projects and collaborations
-4. **Contact** — `your-email@gmail.com`
-5. **Portfolio** — `your-portfolio.com`
-
-</td>
-<td width="50%" valign="top">
-
-### Stack :
-
-`HTML` `CSS` `JavaScript`
-`Bootstrap` `Tailwind CSS`
-`Git` `GitHub` `VS Code`
-
-</td>
-</tr>
-</table>
-
-<br>
+## Toolbox
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode&theme=dark" alt="Toolbox" />
 
 </div>
 
-<br>
+## Skill Level
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" width="100%" />
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-Advanced-c04a8b?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-Advanced-c04a8b?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-5b2a86?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-5b2a86?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-1a1035?style=flat-square)
+
+</div>
+
+## GitHub Activity
+
+<div align="center">
+
+
+
+<img src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=0d1117&ring=c04a8b&fire=c04a8b&currStreakLabel=c04a8b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c04a8b,50:5b2a86,100:1a1035&height=110&section=footer" alt="footer" width="100%" />
