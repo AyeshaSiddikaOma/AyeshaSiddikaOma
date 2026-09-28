@@ -1,59 +1,94 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1035,50:5b2a86,100:c04a8b&height=260&section=header&text=Ayesha%20Siddika%20Oma&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Front-End%20Developer%20%7C%20Web%20Designer&descAlignY=64&descSize=18" alt="header" width="100%" />
+# 🌸 Hey, I'm Ayesha Siddika Oma! 🎀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=C04A8B&center=true&vCenter=true&width=600&lines=%3E+const+goal+%3D+%22Freelance+Web+Developer%22%3B;%3E+while+(learning)+%7B+build()%3B+%7D;%3E+Designing+interfaces+people+enjoy+using" alt="Typing SVG" />
+### 💗 Web Designer | Front-End Developer | Creative Coder
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%8C%B8;I+Love+Building+Beautiful+Websites+%F0%9F%92%97;Turning+Ideas+Into+Reality+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8E%80" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-5b2a86?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-c04a8b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 </div>
 
-<br>
+---
 
-## About
+## 🎀 About Me
 
-```js
-const ayesha = {
- role: "Front-End Developer & Web Designer",
- currentlyLearning: ["JavaScript (ES6+)", "React"],
- focus: ["Responsive layouts", "Clean UI", "Accessible design"],
- goal: "Become a successful freelance web developer",
- openTo: ["Freelance projects", "Collaborations"],
+```javascript
+const oma = {
+    name: "Ayesha Siddika Oma",
+    role: "Web Designer",
+    passion: "Creating beautiful websites",
+    currentlyLearning: ["JavaScript", "MERN Stack"],
+    skills: ["HTML", "CSS", "Bootstrap", "Tailwind CSS"],
+    goal: "Become a Professional Developer",
+    motto: "Consistency is the key to success 💗"
 };
 ```
 
-## Toolbox
+- 🌸 I love designing beautiful and responsive websites.
+- 💻 Passionate about Front-End Development.
+- 🎯 Currently improving my JavaScript skills.
+- 📚 Learning something new every single day.
+- 🎀 Building projects and growing as a developer.
+
+---
+
+## 💗 My Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode&theme=dark" alt="Toolbox" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,github,vscode&theme=light" />
 
 </div>
 
-## Skill Level
+---
+
+## 🌷 My GitHub Journey
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-Advanced-c04a8b?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-Advanced-c04a8b?style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-5b2a86?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-5b2a86?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-1a1035?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=FFF0F5&border_color=FFB6C1&hide_border=false" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&title_color=FF69B4&text_color=FF69B4&bg_color=FFF0F5&border_color=FFB6C1" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&background=FFF0F5&border=FFB6C1&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FF1493&sideNums=FF1493&dates=DB7093" />
 
 </div>
 
-## GitHub Activity
+---
+
+## 🎀 100 Days of Code Challenge
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/100%20Days%20of%20Code-Day%201%20%2F%20100-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 
-
-<img src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=0d1117&ring=c04a8b&fire=c04a8b&currStreakLabel=c04a8b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+**One day. One contribution. One step closer to my dream. 💗**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c04a8b,50:5b2a86,100:1a1035&height=110&section=footer" alt="footer" width="100%" />
+---
+
+## 🌸 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/AyeshaSiddikaOma">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💗 "Code with passion, create with love." 🎀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" />
+
+**Thanks for visiting my little coding corner! 🌷**
+
+</div>
