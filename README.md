@@ -54,11 +54,11 @@ A creative **Web Designer** who loves turning ideas into clean and beautiful dig
 
 <br/>
 
-<img src="https://img.shields.io/badge/HTML5-d98fa3?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-bb7185?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-9f6073?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-c58b9b?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-e8b4c0?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-d98fa3?style=flat-square&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-bb7185?style=flat-square&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-9f6073?style=flat-square&logo=bootstrap&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-c58b9b?style=flat-square&logo=tailwindcss&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-e8b4c0?style=flat-square&logo=javascript&logoColor=black"/>
 
 </div>
 
