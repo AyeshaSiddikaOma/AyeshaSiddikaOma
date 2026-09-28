@@ -95,8 +95,6 @@ Interactive web experiences
 
 ## 📊 MY GITHUB WORLD
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 <br><br>
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=AyeshaSiddikaOma&theme=radical&hide_border=true"/>
