@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0d9488,100:0f766e&height=200&section=header&text=AYESHA%20SIDDIKA%20OMA&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Designer%20%7C%20Frontend%20Developer&descAlignY=60&descSize=17"/>
@@ -119,4 +119,4 @@ Interactive web experiences
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0d9488,100:14b8a6&height=120&section=footer"/>
 
 </div>
-```
+
