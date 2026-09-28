@@ -21,7 +21,7 @@
 
 ## 🌸 𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑶𝒎𝒂!
 
-A creative **Web Designer** who loves turning ideas into beautiful digital experiences.
+A creative **Web Designer & Front End Developer** who loves turning ideas into beautiful digital experiences.
 
 - 🎀 Passionate about frontend design
 - 💗 Creating responsive websites
@@ -95,9 +95,7 @@ Interactive web experiences
 
 ## 📊 MY GITHUB WORLD
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&theme=radical&hide_border=true"/>
 
 <br><br>
 
