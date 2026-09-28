@@ -1,13 +1,15 @@
 
 <div align="center">
 
-# 🌸 Hey, I'm Ayesha Siddika Oma! 🎀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Ayesha%20Siddika%20Oma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Designer%20%7C%20Creative%20Coder&descAlignY=58&descSize=18" width="100%"/>
 
-### 💗 Web Designer | Front-End Developer | Creative Coder
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+Pink+Coding+World!+%F0%9F%8C%B8;Designing+with+Love+%F0%9F%92%97;Coding+My+Dreams+Into+Reality+%E2%9C%A8;One+Day+Closer+to+My+Dream+%F0%9F%8E%80" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%8C%B8;I+Love+Building+Beautiful+Websites+%F0%9F%92%97;Turning+Ideas+Into+Reality+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8E%80" alt="Typing SVG" />
+<br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+### 🌷 Turning ideas into beautiful websites 💗
 
 </div>
 
@@ -15,23 +17,32 @@
 
 ## 🎀 About Me
 
+<img align="right" width="180" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
 ```javascript
 const oma = {
-    name: "Ayesha Siddika Oma",
-    role: "Web Designer",
-    passion: "Creating beautiful websites",
-    currentlyLearning: ["JavaScript", "MERN Stack"],
-    skills: ["HTML", "CSS", "Bootstrap", "Tailwind CSS"],
-    goal: "Become a Professional Developer",
-    motto: "Consistency is the key to success 💗"
+  name: "Ayesha Siddika Oma",
+  role: "Web Designer",
+  passion: "Creative Coding",
+  skills: [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Tailwind CSS"
+  ],
+  currentlyLearning: ["JavaScript", "MERN"],
+  goal: "Become a Professional Developer",
+  vibe: "Pink, Passion & Programming 💗"
 };
 ```
 
-- 🌸 I love designing beautiful and responsive websites.
-- 💻 Passionate about Front-End Development.
-- 🎯 Currently improving my JavaScript skills.
-- 📚 Learning something new every single day.
-- 🎀 Building projects and growing as a developer.
+- 🌸 I love creating beautiful and responsive websites.
+- 🎨 Passionate about UI design and frontend development.
+- 💻 Currently improving my JavaScript skills.
+- 🌱 Learning something new every day.
+- 🎯 Building my dream, one line of code at a time.
+
+<br clear="right"/>
 
 ---
 
@@ -45,38 +56,38 @@ const oma = {
 
 ---
 
-## 🌷 My GitHub Journey
+## 🌸 My GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=FFF0F5&border_color=FFB6C1&hide_border=false" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF1493&text_color=DB7093"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&title_color=FF69B4&text_color=FF69B4&bg_color=FFF0F5&border_color=FFB6C1" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=DB7093"/>
 
-<img src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&background=FFF0F5&border=FFB6C1&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FF1493&sideNums=FF1493&dates=DB7093" />
+<img width="70%" src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&theme=default&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=DB7093&currStreakNum=FF1493&sideNums=FF69B4&dates=DB7093"/>
 
 </div>
 
 ---
 
-## 🎀 100 Days of Code Challenge
+## 🎀 My Coding Journey
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/100%20Days%20of%20Code-Day%201%20%2F%20100-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/100%20Days%20of%20Code-My%20Challenge-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 
-**One day. One contribution. One step closer to my dream. 💗**
+### 🌷 One day. One contribution. One step closer to my dream.
 
 </div>
 
 ---
 
-## 🌸 Let's Connect
+## 💌 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/AyeshaSiddikaOma">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -85,10 +96,10 @@ const oma = {
 
 <div align="center">
 
-### 💗 "Code with passion, create with love." 🎀
+### 💗 "She believed she could, so she coded."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
-**Thanks for visiting my little coding corner! 🌷**
+**Thanks for visiting my little coding world! 🌸🎀**
 
 </div>
