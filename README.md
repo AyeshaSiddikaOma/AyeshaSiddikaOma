@@ -1,93 +1,14 @@
-# 💗 Ayesha Siddika Oma
 
 <div align="center">
 
-### ✨ Web Designer & Front-End Developer ✨
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ff1493&height=250&section=header&text=AYESHA%20SIDDIKA%20OMA&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=ff69b4&strokeWidth=2" width="100%"/>
 
-<p>
-  HTML • CSS • Bootstrap • Tailwind CSS • JavaScript
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+coding+world+%F0%9F%92%97;Web+Designer+%7C+Frontend+Developer;Turning+Ideas+into+Beautiful+Websites;Creating+with+Passion+%E2%9C%A8" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Code%20with%20Love%20%F0%9F%92%97&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<br/>
 
-</div>
-
----
-
-## 🌸 About Me
-
-Hi! I'm **Ayesha Siddika Oma**.
-
-I love creating beautiful, responsive and user-friendly websites.
-I'm currently improving my JavaScript skills and exploring modern web development step by step.
-
-```js
-const developer = {
-    name: "Ayesha Siddika Oma",
-    role: "Web Designer",
-    skills: [
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Tailwind CSS",
-        "JavaScript"
-    ],
-    passion: "Creating beautiful websites 💗"
-};
-```
-
----
-
-## 💕 My Skills
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,github,vscode" />
-
-</p>
-
----
-
-## 🎀 What I Love
-
-✨ Responsive Web Design
-✨ Clean & Beautiful UI
-✨ CSS & Tailwind
-✨ JavaScript Projects
-✨ Learning New Things
-✨ Turning Ideas into Websites
-
----
-
-## 🌷 Currently Learning
-
-```text
-JavaScript
-   ↓
-DOM
-   ↓
-Events
-   ↓
-Functions
-   ↓
-Array Methods
-   ↓
-Promises & Fetch API
-   ↓
-More Web Development 💗
-```
-
----
-
-## 💖 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff5fa" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSiddikaOma&hide_border=true&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4" />
+<img src="https://img.shields.io/badge/STATUS-CREATING%20MAGIC-ff1493?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MADE%20WITH-LOVE-ff69b4?style=for-the-badge&logo=heart&logoColor=white"/>
 
 </div>
 
@@ -95,8 +16,85 @@ More Web Development 💗
 
 <div align="center">
 
-### 💗 "Code. Create. Learn. Repeat." 💗
+## 🎀 ABOUT ME 🎀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+### 💗 Hey there! I'm Ayesha Siddika Oma
+
+A passionate Web Designer who loves transforming creative ideas into beautiful, responsive and interactive websites.
+
+🌸 Designing with creativity  
+💻 Coding with passion  
+✨ Learning something new every day  
+🎀 Making the web a little prettier  
+
+</div>
+
+---
+
+## 💎 MY TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-ff1493?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-DB7093?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND-ff69b4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-ff1493?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+</div>
+
+---
+
+## 🌷 WHAT I LOVE TO CREATE
+
+<div align="center">
+
+| 💗 | My Creative World |
+|:---:|:---|
+| 🎨 | Beautiful UI Designs |
+| 📱 | Responsive Websites |
+| ✨ | Interactive JavaScript Projects |
+| 🌸 | Modern Landing Pages |
+| 💻 | Creative Frontend Experiences |
+
+</div>
+
+---
+
+## 📊 MY GITHUB UNIVERSE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&ring_color=ff69b4"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=AyeshaSiddikaOma&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+
+</div>
+
+---
+
+## 🎧 MY CODING MOOD
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Creativity%20is%20intelligence%20having%20fun.&author=Albert%20Einstein" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" />
+
+### 💗 Code with passion. Design with love. Dream without limits. 💗
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=130&section=footer"/>
 
 </div>
