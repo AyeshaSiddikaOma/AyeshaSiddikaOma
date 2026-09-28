@@ -1,68 +1,59 @@
-# Ayesha Siddika Oma
+# Hi, I'm Ayesha Siddika Oma 🌊
 
-### Web Designer & Front-End Developer
+### 🩵 Web Designer | Front-End Developer
 
-I build responsive, user-focused websites with a strong focus on clean design, accessibility, and modern front-end practices.
+I love turning ideas into clean, responsive and beautiful websites.
 
----
-
-## About Me
-
-* 💻 Web Designer & Front-End Developer
-* 🎨 Focused on responsive and modern UI design
-* ⚡ Experienced with HTML, CSS, Bootstrap and Tailwind CSS
-* 🌱 Currently strengthening my JavaScript skills
-* 🔨 Learning through practical projects and real-world implementation
+I enjoy working with **HTML, CSS, Bootstrap, Tailwind CSS & JavaScript** and I'm always learning something new. ✨
 
 ---
 
-## Tech Stack
+## 🌊 What I Do
 
-<p>
+* 💻 Build responsive websites
+* 🎨 Create clean & modern UI designs
+* 📱 Make websites mobile-friendly
+* ⚡ Practice JavaScript projects
+* 🌱 Keep learning and improving
+
+---
+
+## 🩵 Tech Stack
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
 </p>
 
 ---
 
-## Currently Learning
+## 🌊 Currently Learning
 
-**JavaScript**
+<img src="https://img.shields.io/badge/Currently-Learning%20JavaScript-0d9488?style=flat-square&logo=javascript&logoColor=white"/>
 
-Working on DOM manipulation, events, functions, arrays, objects, asynchronous JavaScript, APIs and practical projects.
+I'm currently focusing on JavaScript and building small projects to improve my problem-solving and DOM manipulation skills.
 
 ---
 
-## GitHub Statistics
+## 🩵 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=ffffff"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyeshaSiddikaOma&show_icons=true&hide_border=true&title_color=0f766e&icon_color=14b8a6&text_color=475569&bg_color=f0fdfa"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddikaOma&layout=compact&hide_border=true&title_color=0f766e&text_color=475569&bg_color=f0fdfa"/>
 </p>
 
 ---
 
-## Featured Skills
+## 🌊 A Little About Me
 
 ```text
-HTML          ████████████████████
-CSS           ████████████████████
-Bootstrap     ███████████████████░
-Tailwind CSS  ███████████████████░
-JavaScript    ███████████████░░░░░
+♡ I love creating beautiful websites
+♡ I enjoy learning by building projects
+♡ I believe consistency makes progress
+♡ Always curious. Always learning.
 ```
 
 ---
 
-## Connect With Me
-
-<p>
-  <a href="https://github.com/AyeshaSiddikaOma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <p align="center">
-  <sub>Designing with purpose. Building with code. Learning continuously.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer"/>
 </p>
