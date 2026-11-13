@@ -52,8 +52,7 @@ A creative **Web Designer** who loves turning ideas into clean and beautiful dig
 
 ## 💎 MY DIGITAL TOOLKIT
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,github,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,github,vscode&theme=dark" />
 <br/>
 
 <img src="https://img.shields.io/badge/HTML5-C56F88?style=flat-square&logo=html5&logoColor=white"/>
