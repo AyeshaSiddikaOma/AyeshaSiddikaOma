@@ -61,7 +61,7 @@ A creative **Web Designer** who loves turning ideas into clean and beautiful dig
 <img src="https://img.shields.io/badge/Bootstrap-A94F70?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-C47A91?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-D08A9F?style=flat-square&logo=javascript&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React-C56F88?style=flat-square&logo=react&logoColor=white"/>
 
 
 </div>
